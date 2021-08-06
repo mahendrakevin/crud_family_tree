@@ -1,0 +1,83 @@
+[
+  {
+    "child_of": null,
+    "children": [
+      {
+        "child_of": 0,
+        "children": [
+          {
+            "child_of": 1,
+            "children": [],
+            "class": "man",
+            "name": "Feri",
+            "parent_id": 5
+          },
+          {
+            "child_of": 1,
+            "children": [],
+            "class": "woman",
+            "name": "Farah",
+            "parent_id": 6
+          }
+        ],
+        "class": "man",
+        "name": "Dedi",
+        "parent_id": 1
+      },
+      {
+        "child_of": 0,
+        "children": [
+          {
+            "child_of": 2,
+            "children": [],
+            "class": "man",
+            "name": "Gugus",
+            "parent_id": 7
+          },
+          {
+            "child_of": 2,
+            "children": [],
+            "class": "man",
+            "name": "Gandi",
+            "parent_id": 8
+          }
+        ],
+        "class": "man",
+        "name": "Dodi",
+        "parent_id": 2
+      },
+      {
+        "child_of": 0,
+        "children": [
+          {
+            "child_of": 3,
+            "children": [],
+            "class": "woman",
+            "name": "Hani",
+            "parent_id": 9
+          },
+          {
+            "child_of": 3,
+            "children": [],
+            "class": "woman",
+            "name": "Hana",
+            "parent_id": 10
+          }
+        ],
+        "class": "man",
+        "name": "Dede",
+        "parent_id": 3
+      },
+      {
+        "child_of": 0,
+        "children": [],
+        "class": "woman",
+        "name": "Dewi",
+        "parent_id": 4
+      }
+    ],
+    "class": "man",
+    "name": "Budi",
+    "parent_id": 0
+  }
+]
